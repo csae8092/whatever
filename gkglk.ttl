@@ -1,0 +1,168 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept10> a skos:Concept ;
+    dct:created "2019-04-09T10:16:52.452402+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-09T10:33:36.804019+00:00"^^xsd:dateTime ;
+    skos:altLabel "Register/Akten/Verzeichnisse: Medizinisch/Klinisch"@de,
+        "Rekisterit/asiakirjat: lääketieteelliset/kliiniset"@fi ;
+    skos:broader <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept6> ;
+    skos:definition "Gesundheitsbezogene Daten, die vom Fachpersonal aus dem Gesundheitswesen über einen Patienten erstellt oder gesammelt wurden. In der Regel enthalten diese die Ergebnisse von medizinischen Tests oder Messungen, Befunde aus Sprechstunden oder klinischen Studienprogrammen, etc."@de,
+        "Health-related data created or collected by health care professionals about a patient. Usually include the results of medical tests or measurements, findings from consultations or clinical trial programs, etc."@en,
+        "Terveydenhuollon ammattilaisten potilaistaan keräämää tai tuottamaa, terveydentilaan liittyvää tietoa. Esimerkiksi lääketieteellisten kokeiden, testien ja mittausten tulokset, lääkärin tekemän tutkimuksen ja kliinisten tutkimusohjelmien löydökset."@fi ;
+    skos:inScheme <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html> ;
+    skos:notation "RegistersRecordsAccounts.MedicalClinical" ;
+    skos:prefLabel "Registers/Records/Accounts: Medical/Clinical"@en .
+
+<http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept11> a skos:Concept ;
+    dct:created "2019-04-09T10:19:30.830381+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-09T10:34:50.090840+00:00"^^xsd:dateTime ;
+    skos:altLabel "Register/Akten/Verzeichnisse: Personenbezogen"@de,
+        "Rekisterit/asiakirjat: henkilökohtaiset"@fi ;
+    skos:broader <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept6> ;
+    skos:definition "Aufzeichnungen oder Verzeichnisse, die von Einzelpersonen oder Familien für andere Zwecke, und nicht für Forschung, inoffiziell erstellt wurden. Beispiele können private Tagebücher oder Memoiren, Familienbücher oder Bibeln, Sammlungen von persönlichen Dokumenten, Fotografien usw. sein."@de ;
+    skos:inScheme <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html> ;
+    skos:notation "RegistersRecordsAccounts.Personal" ;
+    skos:note "Records or accounts created unofficially by individuals or families for other purposes than research. Examples may include private diaries or memoirs, family record books or Bibles, collections of personal documents, photographs, etc."@en,
+        "Henkilöiden tai perheiden muuhun kuin tutkimustarkoituksiin epävirallisesti tuottamat asiakirjat ja dokumentit. Esimerkiksi henkilökohtaiset päiväkirjat tai muistelmat, sukukirjat tai perheraamatut, henkilökohtaisten dokumenttien kokoelmat, valokuvat."@fi ;
+    skos:prefLabel "Registers/Records/Accounts: Personal"@en .
+
+<http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept12> a skos:Concept ;
+    dct:created "2019-04-09T10:23:52.558700+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-09T10:23:52.605802+00:00"^^xsd:dateTime ;
+    skos:altLabel "Rekisterit/asiakirjat: oppimis-, soveltuvuus- ja kykytestit"@fi ;
+    skos:broader <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept6> ;
+    skos:definition "Information gathered during an evaluation process and presented as results. Examples include educational tests, IQ tests, verbal or logical reasoning tests, competence tests for professional occupations, etc."@en,
+        "Tietoa, joka on kerätty osana arviointiprosessia ja esitetään tuloksina. Esimerkiksi oppimiseen ja opiskeluun liittyvät kokeet ja testit, älykkyystestit, ammattien soveltuvuustestit."@fi ;
+    skos:inScheme <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html> ;
+    skos:notation "RegistersRecordsAccounts.AcademicAptitude" ;
+    skos:prefLabel "Registers/Records/Accounts: Academic/Aptitude"@en .
+
+<http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept13> a skos:Concept ;
+    dct:created "2019-04-09T10:39:06.841389+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-09T10:39:06.896961+00:00"^^xsd:dateTime ;
+    skos:broader <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept6> ;
+    skos:inScheme <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html> ;
+    skos:notation "RegistersRecordsAccounts.EconomicFinancial" ;
+    skos:prefLabel "Registers/Records/Accounts: Economic/Financial"@en .
+
+<http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept15> a skos:Concept ;
+    dct:created "2019-04-09T10:45:04.347072+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-09T10:45:04.416251+00:00"^^xsd:dateTime ;
+    skos:altLabel "Kommunikation: Öffentlich"@de ;
+    skos:broader <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept14> ;
+    skos:definition "Kommunikation, die direkt an ein öffentliches Publikum gerichtet ist, zum Beispiel persönlich (öffentliche Versammlungen, politische Kundgebungen usw.), durch Rundfunkübertragungen,Print- oder Internet-Massenmedien (Radio, Fernsehen, Print- oder Online-Zeitungen/Zeitschriften), durch Plakate, Banner oder andere Beschilderungen in der Öffentlichkeit oder Social Media (öffentliche Postings auf Facebook, Twitter und anderen)."@de,
+        "Communications addressed directly to a public audience, for example, in person (public gatherings, political rallies, etc.), by means of broadcast, print or Internet mass media (radio, television, print or online newspapers/journals), by means of billboards, banners or other signage placed in public view, or social media (public postings on Facebook, Twitter, and others)."@en ;
+    skos:inScheme <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html> ;
+    skos:notation "Communications.Public" ;
+    skos:prefLabel "Communications.Public"@en .
+
+<http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept16> a skos:Concept ;
+    dct:created "2019-04-09T11:04:48.166176+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-09T11:06:38.774252+00:00"^^xsd:dateTime ;
+    skos:altLabel "Kommunikation: Interpersonell"@de ;
+    skos:broader <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept14> ;
+    skos:definition "Kommunikation zwischen Personen oder in einer privaten Gruppe von Personen, die anderen Zwecken als der Forschung dient. Zum Beispiel E-Mails, Briefe, Telefongespräche, Postings in Social Media mit eingeschränktem Zugriff."@de,
+        "Communications made by an individual to another individual or a private group of persons, for purposes other than research. For example emails, letters, telephone conversations, social media postings with limited access."@en ;
+    skos:inScheme <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html> ;
+    skos:notation "Communications.Interpersonal" ;
+    skos:prefLabel "Communications: Interpersonal"@en .
+
+<http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept7> a skos:Concept ;
+    dc:creator "DDI Alliance" ;
+    dct:created "2019-04-09T08:52:59.746210+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-09T11:14:11.670854+00:00"^^xsd:dateTime ;
+    skos:altLabel "Register/Akten/Verzeichnisse: Administrativ"@de,
+        "Rekisterit/asiakirjat: hallinnolliset"@fi,
+        "Register/handlingar/förteckningar: Administrativa"@sv ;
+    skos:broader <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept6> ;
+    skos:definition "Informationen, die zu Einzelpersonen oder Gruppen gesammelt werden als Teil des routinemäßigen Verwaltungsprozederes einer Agentur, eines Unternehmens oder einer Einrichtung. Solche Daten werden in der Regel nicht zu Forschungszwecken gesammelt, sie können umfangreich sein und können Vorbereitungenwie Codierung erfordern, um für Forschern nutzbar zu sein. Beispiele: Einkommensteuerformulare, Bevölkerungsregister,Einbürgerungsurkunden,Geburts-/Sterbeurkunden, Patentanmeldungen usw."@de,
+        "Information collected on individuals or groups as part of the routine administrative procedures of an agency, business, or institution. Such data are not usually collected with research purposes in mind, may be voluminous, and may require preparation such as coding in order to be usable by researchers. Examples: income tax forms, population registers, naturalization records, birth/death certificates, patent applications, etc."@en,
+        "Viraston, yrityksen tai muun organisaation esimerkiksi henkilöistä tai ryhmistä keräämää tietoa osana sen normaalia hallinnollista toimintaa. Tällaista tietoa ei yleensä kerätä ensisijaisesti tutkimustarkoituksiin ja se saattaa olla hyvin laajaa ja vaatia käsittelyä, kuten esimerkiksi koodausta, ollakseen tutkijoiden käytettävissä. Esimerkiksi tuloverotukseen liittyvät lomakkeet, väestötietorekisterit, syntymä/kuolintodistukset, patenttihakemukset."@fi,
+        "Information som samlats in om individer eller grupper som en del av rutinmässiga administrativa förfaranden för en myndighet, företag eller institution. Sådana data samlas vanligtvis inte med forskningsändamål i åtanke, kan vara omfattande och kräva förberedelser som kodning för att kunna användas av forskare. Exempel: inkomstskatteformulär, befolkningsregister, naturaliseringsregister, födelse-/dödsattester, patentansökningar osv."@sv ;
+    skos:inScheme <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html> ;
+    skos:notation "RegistersRecordsAccounts.Administrative" ;
+    skos:prefLabel "Registers/Records/Accounts: Administrative"@en .
+
+<http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept8> a skos:Concept ;
+    dct:created "2019-04-09T10:12:32.359936+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-09T10:28:39.284112+00:00"^^xsd:dateTime ;
+    skos:altLabel "Rekisterit/asiakirjat: historialliset"@fi ;
+    skos:broader <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept6> ;
+    skos:definition "Historical records preserve information and constitute evidence about past events.They may be produced by individuals, groups, or organizations. Administrative records become historical when they are no longer retained, or actively used by the issuing agency for their original purpose. Examples include parish registers, estate records, wills, chronicles, etc."@en,
+        "Historialliset asiakirjat säilyttävät tietoa ja toimivat todisteina menneistä tapahtumista. Ne voivat olla yksilöiden, ryhmien tai järjestöjen tuottamia. Hallinnollisista asiakirjoista tulee historiallisia, kun ne tuottanut organisaatio ei enää säilytä tai käytä niitä aktiivisesti alkuperäistä tarkoitusta varten. Esimerkiksi kirkonkirjat, kiinteistöasiakirjat, testamentit, kronikat."@fi ;
+    skos:inScheme <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html> ;
+    skos:notation "RegistersRecordsAccounts.Historical" ;
+    skos:prefLabel "Registers/Records/Accounts: Historical"@en .
+
+<http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept9> a skos:Concept ;
+    dct:created "2019-04-09T10:15:17.430667+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-09T10:30:08.061774+00:00"^^xsd:dateTime ;
+    skos:altLabel "Rekisterit/asiakirjat: juridiset"@fi ;
+    skos:broader <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept6> ;
+    skos:definition "Records pertaining to law and its administration, for example records related to cases that have been brought to court or to a tribunal."@en,
+        "Juridiset ja juridishallinnolliset asiakirjat, kuten oikeuskäsittelyihin, oikeudenkäynteihin ja tuomioistuinten toimintaan liittyvät asiakirjat."@fi ;
+    skos:inScheme <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html> ;
+    skos:notation "RegistersRecordsAccounts.Legal" ;
+    skos:prefLabel "Registers/Records/Accounts: Legal"@en .
+
+<http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept14> a skos:Concept ;
+    dct:created "2019-04-09T10:41:21.987285+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-09T10:41:22.050315+00:00"^^xsd:dateTime ;
+    skos:altLabel "Kommunikation"@de ;
+    skos:definition "Nachrichten, die sich aus dem Prozess der Verwendung von Wörtern, Klängen, Zeichen oder Verhaltensweisen ergeben, um Informationen, Ideen, Gedanken, Gefühle usw. zu vermitteln oder auszutauschen"@de,
+        "Messages resulting from the act or process of using words, sounds, signs, or behaviors to convey or exchange information, ideas, thoughts, feelings, etc. (adapted from www.merriam-webster.com)."@en ;
+    skos:inScheme <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html> ;
+    skos:narrower <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept15>,
+        <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept16> ;
+    skos:notation "Communications" ;
+    skos:prefLabel "Communications"@en ;
+    skos:topConceptOf <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html> .
+
+<http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept6> a skos:Concept ;
+    dc:creator "DDI Alliance" ;
+    dct:created "2019-04-09T08:51:45.724842+00:00"^^xsd:dateTime ;
+    dct:modified "2019-04-09T10:36:01.923360+00:00"^^xsd:dateTime ;
+    skos:altLabel "Register/Akten/Verzeichnisse"@de,
+        "Rekisterit/asiakirjat"@fi ;
+    skos:definition "Offizielle, formale oder halbformale Dokumente, die zum Beispiel Gegenstände, Namen, Vorkommnisse, Handlungen oder Ergebnisse aufführen und in schriftlicher oder einer anderen dauerhaften Form zur späteren Referenz aufbewahrt werden."@de,
+        "Official, formal, or semi-formal documents listing for example items, names, occurences, actions, or results, and preserved in writing or some other permanent form for later reference."@en,
+        "Viralliset ja puoliviralliset asiakirjat, joissa luetellaan esimerkiksi asioita, nimiä, tapahtumia, toimintoja tai tuloksia ja jotka on säilytetty kirjoitetussa tai muussa pysyvässä muodossa myöhempää käyttöä varten."@fi ;
+    skos:inScheme <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html> ;
+    skos:narrower <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept10>,
+        <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept11>,
+        <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept12>,
+        <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept13>,
+        <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept7>,
+        <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept8>,
+        <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept9> ;
+    skos:notation "RegistersRecordsAccounts" ;
+    skos:prefLabel "Registers/Records/Account"@en ;
+    skos:topConceptOf <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html> .
+
+<http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html> a skos:ConceptScheme ;
+    rdfs:label "Data Source Type"@en ;
+    dc:contributor "FSD (translation into Finnish)" ;
+    dc:creator "DDI Alliance" ;
+    dc:description "Enthält eine Typologie von Datenquellen."@de,
+        "A typology of data sources"@en ;
+    dc:language "en",
+        "fi" ;
+    dc:publisher "DDI Alliance" ;
+    dc:subject "Source of a dataset" ;
+    dc:title "Art der Datenquelle"@de,
+        "Data Source Type"@en,
+        "Aineiston alkuperä"@fi ;
+    dct:created "2019-04-09T07:52:59.102356+00:00"^^xsd:dateTime ;
+    dct:issued "2019-04-05"^^xsd:dateTime ;
+    dct:license "cc-by 4.0" ;
+    dct:modified "2019-04-09T11:11:25.301232+00:00"^^xsd:dateTime ;
+    dct:rightsHolder "DDI Alliance; translation fi: FSD" ;
+    owl:versionInfo "1.0" ;
+    skos:hasTopConcept <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept14>,
+        <http://www.ddialliance.org/Specification/DDI-CV/DataSourceType_1.0.html#concept6> .
+
