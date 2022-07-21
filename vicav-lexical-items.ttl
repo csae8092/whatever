@@ -1,0 +1,787 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#TV> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:06.324314+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:06.361918+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "tv" ;
+    skos:prefLabel "TV"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#a_little> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:05.784501+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:05.972897+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "a-little" ;
+    skos:prefLabel "a little"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#ability> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:02.653034+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:02.824037+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "ability" ;
+    skos:prefLabel "ability"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#being_unable> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:02.334774+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:02.555025+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "being-unable" ;
+    skos:prefLabel "being unable"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#black> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:09.176462+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:09.347383+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "black" ;
+    skos:prefLabel "black"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#bread> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:04.716846+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:04.900980+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "bread" ;
+    skos:prefLabel "bread"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#car> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:20:59.938889+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:00.422265+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "car" ;
+    skos:prefLabel "car"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#children> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:10.646496+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:10.822569+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "children" ;
+    skos:prefLabel "children"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#coffee> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:11.032082+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:11.224139+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "coffee" ;
+    skos:prefLabel "coffee"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#concept16888> a skos:Concept ;
+    dct:created "2020-01-23T14:53:46.250567+00:00"^^xsd:dateTime ;
+    dct:modified "2020-01-23T14:53:47.205009+00:00"^^xsd:dateTime ;
+    skos:altLabel "there is (m)"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "presentative_m" ;
+    skos:prefLabel "here is (m)"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#eight> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:01.298783+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:01.390021+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "eight" ;
+    skos:prefLabel "eight"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#eighteen> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:04.019007+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:04.109449+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "eighteen" ;
+    skos:prefLabel "eighteen"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#eleven> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:07.726316+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:07.831795+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "eleven" ;
+    skos:prefLabel "eleven"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#existential> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:08.979946+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:09.089179+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "existential" ;
+    skos:prefLabel "existential"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#friend> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:04.527402+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:04.615161+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "friend" ;
+    skos:prefLabel "friend"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#gen_explicative> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:08.380464+00:00"^^xsd:dateTime ;
+    dct:modified "2020-02-17T08:28:20.120938+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "gen-explicative" ;
+    skos:prefLabel "gen explicative"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#good> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:04.997627+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:05.093319+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "good" ;
+    skos:prefLabel "good"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#grey> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:06.882035+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:06.987657+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "grey" ;
+    skos:prefLabel "grey"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#here> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:03.720369+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:03.798825+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "here" ;
+    skos:prefLabel "here"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#house> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:09.435207+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:09.538241+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "house" ;
+    skos:prefLabel "house"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#how> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:09.636077+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:09.758679+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "how" ;
+    skos:prefLabel "how"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#how_many> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:07.926537+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:08.056373+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "how-many" ;
+    skos:prefLabel "how many"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#how_much> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:03.375348+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:03.452410+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "how-much" ;
+    skos:prefLabel "how much"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#husband> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:01.746856+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:01.833401+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "husband" ;
+    skos:prefLabel "husband"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#in> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:10.465191+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:10.559919+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "in" ;
+    skos:prefLabel "in"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#last_year> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:03.547843+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:03.627227+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "last-year" ;
+    skos:prefLabel "last year"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#lemon> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:00.559413+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:00.633866+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "lemon" ;
+    skos:prefLabel "lemon"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#letter> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:08.560482+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:08.641693+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "letter" ;
+    skos:prefLabel "letter"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#man> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:05.333414+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:05.416261+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "man" ;
+    skos:prefLabel "man"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#mobile> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:07.403556+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:07.490814+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "mobile" ;
+    skos:prefLabel "mobile"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#money> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:12.131572+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:12.248195+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "money" ;
+    skos:prefLabel "money"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#much> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:07.088078+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:07.167855+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "much" ;
+    skos:prefLabel "much"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#now> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:03.218985+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:03.279082+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "now" ;
+    skos:prefLabel "now"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#orange> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:11.820384+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:11.912365+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "orange" ;
+    skos:prefLabel "orange"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#pink> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:04.234701+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:04.304237+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "pink" ;
+    skos:prefLabel "pink"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#please> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:06.454437+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:06.518684+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "please" ;
+    skos:prefLabel "please"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#possibility> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:10.034366+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:10.106738+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "possibility" ;
+    skos:prefLabel "possibility"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#shirt> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:09.864984+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:09.933606+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "shirt" ;
+    skos:prefLabel "shirt"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#since_for> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:03.061239+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:03.118012+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "since-for" ;
+    skos:prefLabel "since for"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#tea> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:06.184934+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:06.233196+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "tea" ;
+    skos:prefLabel "tea"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#three> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:00.882493+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:00.930446+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "three" ;
+    skos:prefLabel "three"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_bring> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:06.609891+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:06.650857+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "to-bring" ;
+    skos:prefLabel "to bring"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_close> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:10.199036+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:10.240248+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "to-close" ;
+    skos:prefLabel "to close"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_do> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:10.330738+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:10.372215+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "to-do" ;
+    skos:prefLabel "to do"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_give> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:12.344629+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:12.393241+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "to-give" ;
+    skos:prefLabel "to give"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_have> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:08.728717+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:08.767051+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "to-have" ;
+    skos:prefLabel "to have"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_open> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:05.513072+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:05.554394+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "to-open" ;
+    skos:prefLabel "to open"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_rain> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:02.920678+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:02.958484+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "to-rain" ;
+    skos:prefLabel "to rain"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_see> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:01.487880+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:01.524514+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "to-see" ;
+    skos:prefLabel "to see"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_speak> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:11.665357+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:11.720794+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "to-speak" ;
+    skos:prefLabel "to speak"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_stay> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:01.616223+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:01.650249+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "to-stay" ;
+    skos:prefLabel "to stay"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_take> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:01.030182+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:01.064545+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "to-take" ;
+    skos:prefLabel "to take"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_want> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:01.168028+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:01.203501+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "to-want" ;
+    skos:prefLabel "to want"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#today> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:07.589164+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:07.632202+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "today" ;
+    skos:prefLabel "today"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#tomorrow> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:00.739726+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:00.785938+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "tomorrow" ;
+    skos:prefLabel "tomorrow"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#twelve> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:07.263607+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:07.306863+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "twelve" ;
+    skos:prefLabel "twelve"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#two> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:11.488359+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:11.545957+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "two" ;
+    skos:prefLabel "two"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#what> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:01.978090+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:02.140667+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "what" ;
+    skos:prefLabel "what"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#when> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:08.855697+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:08.888054+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "when" ;
+    skos:prefLabel "when"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#where> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:03.894882+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:03.924349+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "where" ;
+    skos:prefLabel "where"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#where_from> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:06.747400+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:06.782782+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "where-from" ;
+    skos:prefLabel "where from"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#where_to> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:10.911004+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:10.942009+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "where-to" ;
+    skos:prefLabel "where to"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#which> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:11.340577+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:11.376737+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "which" ;
+    skos:prefLabel "which"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#white> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:06.063747+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:06.093240+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "white" ;
+    skos:prefLabel "white"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#who> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:08.144629+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:08.174418+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "who" ;
+    skos:prefLabel "who"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#whose> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:12.003645+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:12.037325+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "whose" ;
+    skos:prefLabel "whose"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#why> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:05.199934+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:05.235261+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "why" ;
+    skos:prefLabel "why"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#window> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:08.262178+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:08.293271+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "window" ;
+    skos:prefLabel "window"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#women> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:05.646819+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:05.679177+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "women" ;
+    skos:prefLabel "women"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#yesterday> a skos:Concept ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dct:created "2019-09-17T09:21:04.401196+00:00"^^xsd:dateTime ;
+    dct:modified "2019-09-17T09:21:04.434845+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> ;
+    skos:notation "yesterday" ;
+    skos:prefLabel "yesterday"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> .
+
+<https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex> a skos:ConceptScheme ;
+    rdfs:label "VICAV Lexical Items"@en ;
+    dc:creator "Charly Mörth",
+        "Stephan Procházka" ;
+    dc:description "This SKOS vocabulary provides a list of semantic items used in various VICAV resources."@en ;
+    dc:language "en" ;
+    dc:publisher "Austrian Centre for Digital Humanities" ;
+    dc:title "VICAV Lexical Items"@en ;
+    dct:created "2019-09-17T09:20:59.439896+00:00"^^xsd:dateTime ;
+    dct:license "CC-BY" ;
+    dct:modified "2020-01-23T10:35:10.139061+00:00"^^xsd:dateTime ;
+    skos:hasTopConcept <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#TV>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#a_little>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#ability>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#being_unable>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#black>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#bread>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#car>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#children>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#coffee>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#concept16888>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#eight>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#eighteen>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#eleven>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#existential>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#friend>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#gen_explicative>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#good>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#grey>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#here>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#house>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#how>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#how_many>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#how_much>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#husband>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#in>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#last_year>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#lemon>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#letter>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#man>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#mobile>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#money>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#much>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#now>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#orange>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#pink>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#please>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#possibility>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#shirt>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#since_for>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#tea>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#three>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_bring>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_close>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_do>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_give>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_have>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_open>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_rain>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_see>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_speak>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_stay>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_take>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#to_want>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#today>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#tomorrow>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#twelve>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#two>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#what>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#when>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#where>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#where_from>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#where_to>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#which>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#white>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#who>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#whose>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#why>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#window>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#women>,
+        <https://vocabs.acdh.oeaw.ac.at/vicav/vt_lex#yesterday> .
+
