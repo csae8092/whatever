@@ -1,0 +1,365 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+asdf
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#collection228> a skos:Collection ;
+    dct:created "2019-05-23T15:02:28.900199+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:28.900199+00:00"^^xsd:dateTime ;
+    skos:member <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept20> ;
+    skos:prefLabel "Topics"@en ;
+    skos:scopeNote "This group comprises topics of research, discussion and application within digital humanities community."@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#collection229> a skos:Collection ;
+    dct:created "2019-05-23T15:02:29.053782+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:29.053782+00:00"^^xsd:dateTime ;
+    skos:member <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept24>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept25> ;
+    skos:prefLabel "Disciplines"@en ;
+    skos:scopeNote "This group comprises the disciplines that are part of digital humanities research."@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#collection230> a skos:Collection ;
+    dct:created "2019-05-23T15:02:29.107225+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:29.107225+00:00"^^xsd:dateTime ;
+    skos:member <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept33>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept34>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept35>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept36> ;
+    skos:prefLabel "Tools and Services"@en ;
+    skos:scopeNote "This group comprises the tool and services used in digital humanities field."@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#collection231> a skos:Collection ;
+    dc:source "some sources"@en ;
+    dct:created "2019-05-23T15:02:29.143788+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:29.143788+00:00"^^xsd:dateTime ;
+    skos:altLabel "Alt Formats, Protocols, Standards"@en ;
+    skos:hiddenLabel "Hidden Formats, Protocols, Standards"@de ;
+    skos:member <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept1>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept17>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept2>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept3>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept31>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept32>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept4>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept5> ;
+    skos:prefLabel "Formats, Protocols, Standards"@en ;
+    skos:scopeNote "This group comprises the concepts related to Formats, Protocols and Standards accepted and used in Digital Humanities community."@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#collection232> a skos:Collection ;
+    dct:created "2019-05-23T15:02:29.219723+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:29.219723+00:00"^^xsd:dateTime ;
+    skos:member <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept23>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept26>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept27>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept28>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept29>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept30> ;
+    skos:prefLabel "Resources"@de,
+        "Resources"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept21> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dct:created "2019-05-23T15:02:37.227593+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:37.526190+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "activities" ;
+    skos:prefLabel "activities"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept17> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "\"TEI: Text Encoding Initiative.\" TEI: Text Encoding Initiative. Accessed June 13, 2016. http://www.tei-c.org/index.xml."@en ;
+    dct:created "2019-05-23T15:02:36.873593+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:36.955807+00:00"^^xsd:dateTime ;
+    skos:altLabel "Text Encoding Initiative"@en ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept31> ;
+    skos:definition "a set of guidelines which specify encoding methods for machine-readable texts, chiefly in the humanities, social sciences and linguistics"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "tei" ;
+    skos:prefLabel "TEI"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept2> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "based on \"The CIDOC CRM.\" The CIDOC CRM. Accessed June 13, 2016. http://www.cidoc-crm.org/."@en ;
+    dct:created "2019-05-23T15:02:34.510815+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:35.501835+00:00"^^xsd:dateTime ;
+    skos:altLabel "Comité international pour la documentation: Conceptual Reference Model"@fr ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept1> ;
+    skos:definition "a machine-readable ontology that provides definitions and a formal structure for describing general (top-level) concepts and relationships; used mainly in cultural heritage domain"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "cidoc-crm" ;
+    skos:prefLabel "CIDOC CRM"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept20> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dct:created "2019-05-23T15:02:36.103372+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:36.350716+00:00"^^xsd:dateTime ;
+    skos:definition "information about rights and conditions of use and distribution of resources"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "copyrights" ;
+    skos:prefLabel "copyright and licensing"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept24> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "archaeology. Oxford Dictionaries. Oxford University Press. http://www.oxforddictionaries.com/definition/english/archaeology (accessed February 28, 2016)."@en ;
+    dct:created "2019-05-23T15:02:37.886311+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:38.145527+00:00"^^xsd:dateTime ;
+    skos:definition "the study of human history and prehistory through the excavation of sites and the analysis of artefacts and other physical remains"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "archaeology" ;
+    skos:prefLabel "archaeology"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept25> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "Wikipedia contributors, \"Architecture,\" Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Architecture&oldid=712664162 (accessed April 4, 2016)."@en ;
+    dct:created "2019-05-23T15:02:37.557278+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:37.840266+00:00"^^xsd:dateTime ;
+    skos:definition "both the process and the product of planning, designing, and constructing buildings and other physical structures"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "architecture" ;
+    skos:prefLabel "architecture"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept26> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "Wikipedia contributors, \"Text corpus,\" Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Text_corpus&oldid=701487841(accessed February 28, 2016)."@en ;
+    dct:created "2019-05-23T15:02:35.547777+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:35.785763+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept23> ;
+    skos:definition "a large and structured set of texts electronically stored and processed"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "corpus-1" ;
+    skos:prefLabel "corpus"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept27> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "Wikipedia contributors, \"Historical language,\" Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Historical_language&oldid=688305297 (accessed February 8, 2018)."@en ;
+    dct:created "2019-05-23T15:02:32.553556+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:32.913338+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept23> ;
+    skos:definition "a language that is spoken in a historical period, but that is distinct from its modern form; that is, it is a form of language historically attested to from the past which has evolved into more modern forms"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "historical-language" ;
+    skos:prefLabel "historical language"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept28> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dct:created "2019-05-23T15:02:36.402797+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:36.588588+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept23> ;
+    skos:definition "any text created in the past"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "historical-text" ;
+    skos:prefLabel "historical text"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept29> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dct:created "2019-05-23T15:02:33.164204+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:33.258773+00:00"^^xsd:dateTime ;
+    skos:altLabel "dictionary"@en ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept23> ;
+    skos:definition "a structured list of words or multi-word expressions providing reference information about their meaning, translations in other languages, pronunciation, origin, usage etc."@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "lexical-resource" ;
+    skos:prefLabel "lexical resource"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept3> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "Wikipedia contributors, \"FOAF (ontology),\" Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=FOAF_(ontology)&oldid=703222322 (accessed February 28, 2016)."@en ;
+    dct:created "2019-05-23T15:02:36.641255+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:36.803971+00:00"^^xsd:dateTime ;
+    skos:altLabel "Friend Of A Friend"@en ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept1> ;
+    skos:definition "a machine-readable ontology describing persons, their activities and their relations to other people and objects"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "foaf" ;
+    skos:prefLabel "FOAF"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept30> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "ACDH-OEAW Team"@en ;
+    dct:created "2019-05-23T15:02:38.194304+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:38.247501+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept23> ;
+    skos:definition "collections of texts (or just sentences) annotated with complete syntactic structure"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "treebank" ;
+    skos:prefLabel "treebank"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept32> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "Maarten Van Gompel, \"FoLiA Format for Linguistic Annotation.\" FoLiA. Accessed June 13, 2016. https://proycon.github.io/folia/."@en ;
+    dct:created "2019-05-23T15:02:33.582641+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:34.042168+00:00"^^xsd:dateTime ;
+    skos:altLabel "Format for Linguistic Annotation"@en ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept31> ;
+    skos:definition "an XML-based annotation format, suitable for the representation of linguistically annotated language resources"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "folia" ;
+    skos:prefLabel "Folia"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept34> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "Wikipedia contributors, \"Entity linking,\" Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Entity_linking&oldid=833222865 (accessed April 3, 2018)."@en ;
+    dct:created "2019-05-23T15:02:36.998372+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:37.177625+00:00"^^xsd:dateTime ;
+    skos:altLabel "Named Entity Linking"@en ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept33> ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "entity-linking" ;
+    skos:note "the task of determining the identity of entities mentioned in the text that requires a knowledge base containing the entities to which entity mentions can be linked"@en ;
+    skos:prefLabel "entity linking"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept35> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "based on: Wikipedia contributors, \"Lemmatisation,\" Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Lemmatisation&oldid=692695396 (accessed February 28, 2016)."@en ;
+    dct:created "2019-05-23T15:02:29.292355+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:32.422929+00:00"^^xsd:dateTime ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept33> ;
+    skos:definition "a process of grouping together the different inflected forms of a word to its canonical form so that they can be analysed as a single item"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "lemmatisation" ;
+    skos:prefLabel "lemmatisation"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept36> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dct:created "2019-05-23T15:02:38.283337+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:38.367514+00:00"^^xsd:dateTime ;
+    skos:altLabel "Named Entity Recognition"@en ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept33> ;
+    skos:definition "a process of identifying mentions of individuals/entities in a text"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "ner" ;
+    skos:prefLabel "NER"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept4> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "based on Wikipedia contributors, \"Resource Description Framework,\" Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Resource_Description_Framework&oldid=722184246 (accessed June 13, 2016)."@en ;
+    dct:created "2019-05-23T15:02:32.960020+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:33.090844+00:00"^^xsd:dateTime ;
+    skos:altLabel "Resource Description Framework"@en ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept1> ;
+    skos:definition "a group of W3C specifications designed as a metadata data model to provide interoperability between applications that exchange machine-understandable information on the Web. It is used as a general method for conceptual description or modeling of information."@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "rdf" ;
+    skos:prefLabel "RDF"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept5> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "based on Wikipedia contributors, \"Simple Knowledge Organization System,\" Wikipedia, The Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Simple_Knowledge_Organization_System&oldid=703222387 (accessed February 28, 2016)."@en ;
+    dct:created "2019-05-23T15:02:34.133894+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:34.257203+00:00"^^xsd:dateTime ;
+    skos:altLabel "Simple Knowledge Organisation System"@en ;
+    skos:broader <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept1> ;
+    skos:definition "a W3C recommendation format designed for the representation of thesauri, classification schemes, taxonomies, subject-heading systems, or any other type of structured controlled vocabulary"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:notation "skos" ;
+    skos:prefLabel "SKOS"@en .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept31> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dct:created "2019-05-23T15:02:35.841514+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:35.895472+00:00"^^xsd:dateTime ;
+    skos:definition "the representation of printed texts in digital format"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept17>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept32> ;
+    skos:notation "text-encoding" ;
+    skos:prefLabel "text encoding"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept33> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dct:created "2019-05-23T15:02:34.335755+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:34.453459+00:00"^^xsd:dateTime ;
+    skos:altLabel "Natural Language Processing"@en ;
+    skos:definition "tools and methods to process (analyse, enrich, transform) language resources"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept34>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept35>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept36> ;
+    skos:notation "nlp" ;
+    skos:prefLabel "NLP"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept1> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "based on \"Vocabularies.\" W3C. Accessed June 13, 2016. https://www.w3.org/standards/semanticweb/ontology."@en ;
+    dct:created "2019-05-23T15:02:33.293558+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:33.489079+00:00"^^xsd:dateTime ;
+    skos:definition "machine-readable terminologies that define concepts and relationships used to describe and organize data on the web"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept2>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept3>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept4>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept5> ;
+    skos:notation "language-resource" ;
+    skos:prefLabel "semantic web vocabularies"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept23> a skos:Concept ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:source "Simons, G. F., and Bird, S. “Toward a Global Infrastructure for the Sustainability of Language Resources.” Proceedings of 22nd Pacific Asia Conference on Language, Information and Computation, 20–22 November 2008, Cebu City, Philippines. Accessed March 30, 2016. http://www-01.sil.org/~simonsg/preprint/PACLIC22.pdf."@en ;
+    dct:created "2019-05-23T15:02:35.926143+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-23T15:02:36.050225+00:00"^^xsd:dateTime ;
+    skos:definition "a language resource is any physical or digital item that is a product of language documentation, description, or development or is a tool that specifically supports the creation and use of such products"@en ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> ;
+    skos:narrower <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept26>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept27>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept28>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept29>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept30> ;
+    skos:notation "historical-resource" ;
+    skos:prefLabel "language resource"@en ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> .
+
+<https://vocabs.acdh.oeaw.ac.at/dha-taxonomy> a skos:ConceptScheme ;
+    rdfs:label "DHA Taxonomy"@en ;
+    dc:contributor "DHA consortium" ;
+    dc:creator "ACDH-OEAW Team" ;
+    dc:description "DHA taxonomy is a knowledge organization system designed to describe subjects, resources and tools within activities of Digital Humanities Austria."@en ;
+    dc:language "English" ;
+    dc:publisher "ACDH-OEAW" ;
+    dc:subject "Computational methods in humanities",
+        "Cultural analytics",
+        "Text technologies" ;
+    dc:title "DHA Taxonomie"@de,
+        "DHA Taxonomy"@en,
+        "Test title"@es ;
+    dct:created "2019-05-23T15:02:28.563720+00:00"^^xsd:dateTime ;
+    dct:license "https://creativecommons.org/licenses/by/4.0/" ;
+    dct:modified "2019-06-13T11:53:12.897163+00:00"^^xsd:dateTime ;
+    skos:hasTopConcept <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept1>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept20>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept21>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept23>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept24>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept25>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept31>,
+        <https://vocabs.acdh.oeaw.ac.at/dha-taxonomy#concept33> .
+
