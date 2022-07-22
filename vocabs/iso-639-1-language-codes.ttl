@@ -1,0 +1,2043 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/aa> a skos:Concept ;
+    dct:created "2019-05-17T14:15:08.838806+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:08.838806+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "afar" ;
+    skos:prefLabel "Danakil-Sprache"@de,
+        "Afar"@en,
+        "afar"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ab> a skos:Concept ;
+    dct:created "2019-05-17T14:14:41.161324+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:41.161324+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "abkhazian" ;
+    skos:prefLabel "Abchasisch"@de,
+        "Abkhazian"@en,
+        "abkhaze"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ae> a skos:Concept ;
+    dct:created "2019-05-17T14:15:08.384847+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:08.384847+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "avestan" ;
+    skos:prefLabel "Avestisch"@de,
+        "Avestan"@en,
+        "avestique"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/af> a skos:Concept ;
+    dct:created "2019-05-17T14:14:57.852619+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:57.852619+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "afrikaans" ;
+    skos:prefLabel "Afrikaans"@de,
+        "Afrikaans"@en,
+        "afrikaans"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ak> a skos:Concept ;
+    dct:created "2019-05-17T14:15:19.833020+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:19.833020+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "akan" ;
+    skos:prefLabel "Akan-Sprache"@de,
+        "Akan"@en,
+        "akan"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/am> a skos:Concept ;
+    dct:created "2019-05-17T14:14:40.035656+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:40.035656+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "amharic" ;
+    skos:prefLabel "Amharisch"@de,
+        "Amharic"@en,
+        "amharique"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/an> a skos:Concept ;
+    dct:created "2019-05-17T14:15:18.701352+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:18.701352+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "aragonese" ;
+    skos:prefLabel "Aragonesisch"@de,
+        "Aragonese"@en,
+        "aragonais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ar> a skos:Concept ;
+    dct:created "2019-05-17T14:15:03.053331+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:03.053331+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "arabic" ;
+    skos:prefLabel "Arabisch"@de,
+        "Arabic"@en,
+        "arabe"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/as> a skos:Concept ;
+    dct:created "2019-05-17T14:14:28.641452+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:28.641452+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "assamese" ;
+    skos:prefLabel "Assamesisch"@de,
+        "Assamese"@en,
+        "assamais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/av> a skos:Concept ;
+    dct:created "2019-05-17T14:15:04.706925+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:04.706925+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "avaric" ;
+    skos:prefLabel "Awarisch"@de,
+        "Avaric"@en,
+        "avar"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ay> a skos:Concept ;
+    dct:created "2019-05-17T14:14:29.016677+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:29.016677+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "aymara" ;
+    skos:prefLabel "Aymará-Sprache"@de,
+        "Aymara"@en,
+        "aymara"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/az> a skos:Concept ;
+    dct:created "2019-05-17T14:15:09.230351+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:09.230351+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "azerbaijani" ;
+    skos:prefLabel "Aserbeidschanisch"@de,
+        "Azerbaijani"@en,
+        "azéri"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ba> a skos:Concept ;
+    dct:created "2019-05-17T14:14:51.543191+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:51.543191+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "bashkir" ;
+    skos:prefLabel "Baschkirisch"@de,
+        "Bashkir"@en,
+        "bachkir"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/be> a skos:Concept ;
+    dct:created "2019-05-17T14:14:38.912893+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:38.912893+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "belarusian" ;
+    skos:prefLabel "Weißrussisch"@de,
+        "Belarusian"@en,
+        "biélorusse"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/bg> a skos:Concept ;
+    dct:created "2019-05-17T14:14:34.788149+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:34.788149+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "bulgarian" ;
+    skos:prefLabel "Bulgarisch"@de,
+        "Bulgarian"@en,
+        "bulgare"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/bh> a skos:Concept ;
+    dct:created "2019-05-17T14:14:42.759332+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:42.759332+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "bihari-languages" ;
+    skos:prefLabel "Bihari (Andere)"@de,
+        "Bihari languages"@en,
+        "langues biharis"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/bi> a skos:Concept ;
+    dct:created "2019-05-17T14:15:14.079390+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:14.079390+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "bislama" ;
+    skos:prefLabel "Beach-la-mar"@de,
+        "Bislama"@en,
+        "bichlamar"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/bm> a skos:Concept ;
+    dct:created "2019-05-17T14:14:39.536326+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:39.536326+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "bambara" ;
+    skos:prefLabel "Bambara-Sprache"@de,
+        "Bambara"@en,
+        "bambara"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/bn> a skos:Concept ;
+    dct:created "2019-05-17T14:14:55.390632+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:55.390632+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "bengali" ;
+    skos:prefLabel "Bengali"@de,
+        "Bengali"@en,
+        "bengali"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/bo> a skos:Concept ;
+    dct:created "2019-05-17T14:14:51.978958+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:51.978958+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "tibetan" ;
+    skos:prefLabel "Tibetisch"@de,
+        "Tibetan"@en,
+        "tibétain"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/br> a skos:Concept ;
+    dct:created "2019-05-17T14:14:40.790950+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:40.790950+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "breton" ;
+    skos:prefLabel "Bretonisch"@de,
+        "Breton"@en,
+        "breton"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/bs> a skos:Concept ;
+    dct:created "2019-05-17T14:14:59.636596+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:59.636596+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "bosnian" ;
+    skos:prefLabel "Bosnisch"@de,
+        "Bosnian"@en,
+        "bosniaque"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ca> a skos:Concept ;
+    dct:created "2019-05-17T14:14:42.026444+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:42.026444+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "catalanvalencian" ;
+    skos:prefLabel "Katalanisch"@de,
+        "Catalan,Valencian"@en,
+        "catalan,valencien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ce> a skos:Concept ;
+    dct:created "2019-05-17T14:14:33.879329+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:33.879329+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "chechen" ;
+    skos:prefLabel "Tschetschenisch"@de,
+        "Chechen"@en,
+        "tchétchène"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ch> a skos:Concept ;
+    dct:created "2019-05-17T14:14:58.237210+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:58.237210+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "chamorro" ;
+    skos:prefLabel "Chamorro-Sprache"@de,
+        "Chamorro"@en,
+        "chamorro"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/co> a skos:Concept ;
+    dct:created "2019-05-17T14:15:03.380920+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:03.380920+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "corsican" ;
+    skos:prefLabel "Korsisch"@de,
+        "Corsican"@en,
+        "corse"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/cr> a skos:Concept ;
+    dct:created "2019-05-17T14:15:01.034334+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:01.034334+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "cree" ;
+    skos:prefLabel "Cree-Sprache"@de,
+        "Cree"@en,
+        "cree"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/cs> a skos:Concept ;
+    dct:created "2019-05-17T14:15:17.482666+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:17.482666+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "czech" ;
+    skos:prefLabel "Tschechisch"@de,
+        "Czech"@en,
+        "tchèque"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/cu> a skos:Concept ;
+    dct:created "2019-05-17T14:15:19.081107+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:19.081107+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "church-slavicold-slavonicchurch-slavonicold-bulgarianold-church-slavonic" ;
+    skos:prefLabel "Kirchenslawisch"@de,
+        "Church Slavic,Old Slavonic,Church Slavonic,Old Bulgarian,Old Church Slavonic"@en,
+        "slavon d'église,vieux slave,slavon liturgique,vieux bulgare"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/cv> a skos:Concept ;
+    dct:created "2019-05-17T14:15:06.563537+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:06.563537+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "chuvash" ;
+    skos:prefLabel "Tschuwaschisch"@de,
+        "Chuvash"@en,
+        "tchouvache"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/cy> a skos:Concept ;
+    dct:created "2019-05-17T14:15:07.977557+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:07.977557+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "welsh" ;
+    skos:prefLabel "Kymrisch"@de,
+        "Welsh"@en,
+        "gallois"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/da> a skos:Concept ;
+    dct:created "2019-05-17T14:15:13.699132+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:13.699132+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "danish" ;
+    skos:prefLabel "Dänisch"@de,
+        "Danish"@en,
+        "danois"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/de> a skos:Concept ;
+    dct:created "2019-05-17T14:14:54.485148+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:54.485148+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "german" ;
+    skos:prefLabel "Deutsch"@de,
+        "German"@en,
+        "allemand"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/dv> a skos:Concept ;
+    dct:created "2019-05-17T14:14:31.712079+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:31.712079+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "divehidhivehimaldivian" ;
+    skos:prefLabel "Maledivisch"@de,
+        "Divehi,Dhivehi,Maldivian"@en,
+        "maldivien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/dz> a skos:Concept ;
+    dct:created "2019-05-17T14:15:01.389898+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:01.389898+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "dzongkha" ;
+    skos:prefLabel "Dzongkha"@de,
+        "Dzongkha"@en,
+        "dzongkha"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ee> a skos:Concept ;
+    dct:created "2019-05-17T14:14:44.818637+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:44.818637+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "ewe" ;
+    skos:prefLabel "Ewe-Sprache"@de,
+        "Ewe"@en,
+        "éwé"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/el> a skos:Concept ;
+    dct:created "2019-05-17T14:15:11.406891+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:11.406891+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "greek-modern-1453-" ;
+    skos:prefLabel "Neugriechisch"@de,
+        "Greek, Modern (1453-)"@en,
+        "grec moderne (après 1453)"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/en> a skos:Concept ;
+    dct:created "2019-05-17T14:15:10.217786+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:10.217786+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "english" ;
+    skos:prefLabel "Englisch"@de,
+        "English"@en,
+        "anglais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/eo> a skos:Concept ;
+    dct:created "2019-05-17T14:14:58.662293+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:58.662293+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "esperanto" ;
+    skos:prefLabel "Esperanto"@de,
+        "Esperanto"@en,
+        "espéranto"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/es> a skos:Concept ;
+    dct:created "2019-05-17T14:15:13.243034+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:13.243034+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "spanishcastilian" ;
+    skos:prefLabel "Spanisch"@de,
+        "Spanish,Castilian"@en,
+        "espagnol,castillan"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/et> a skos:Concept ;
+    dct:created "2019-05-17T14:15:20.204305+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:20.204305+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "estonian" ;
+    skos:prefLabel "Estnisch"@de,
+        "Estonian"@en,
+        "estonien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/eu> a skos:Concept ;
+    dct:created "2019-05-17T14:14:45.192493+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:45.192493+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "basque" ;
+    skos:prefLabel "Baskisch"@de,
+        "Basque"@en,
+        "basque"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/fa> a skos:Concept ;
+    dct:created "2019-05-17T14:14:51.206490+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:51.206490+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "persian" ;
+    skos:prefLabel "Persisch"@de,
+        "Persian"@en,
+        "persan"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ff> a skos:Concept ;
+    dct:created "2019-05-17T14:14:45.911896+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:45.911896+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "fulah" ;
+    skos:prefLabel "Ful"@de,
+        "Fulah"@en,
+        "peul"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/fi> a skos:Concept ;
+    dct:created "2019-05-17T14:15:09.550127+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:09.550127+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "finnish" ;
+    skos:prefLabel "Finnisch"@de,
+        "Finnish"@en,
+        "finnois"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/fj> a skos:Concept ;
+    dct:created "2019-05-17T14:15:05.377763+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:05.377763+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "fijian" ;
+    skos:prefLabel "Fidschi-Sprache"@de,
+        "Fijian"@en,
+        "fidjien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/fo> a skos:Concept ;
+    dct:created "2019-05-17T14:15:12.079821+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:12.079821+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "faroese" ;
+    skos:prefLabel "Färöisch"@de,
+        "Faroese"@en,
+        "féroïen"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/fr> a skos:Concept ;
+    dct:created "2019-05-17T14:14:59.988680+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:59.988680+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "french" ;
+    skos:prefLabel "Französisch"@de,
+        "French"@en,
+        "français"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/fy> a skos:Concept ;
+    dct:created "2019-05-17T14:14:44.627235+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:44.627235+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "western-frisian" ;
+    skos:prefLabel "Friesisch"@de,
+        "Western Frisian"@en,
+        "frison occidental"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ga> a skos:Concept ;
+    dct:created "2019-05-17T14:15:18.233230+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:18.233230+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "irish" ;
+    skos:prefLabel "Irisch"@de,
+        "Irish"@en,
+        "irlandais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/gd> a skos:Concept ;
+    dct:created "2019-05-17T14:15:13.415575+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:13.415575+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "gaelicscottish-gaelic" ;
+    skos:prefLabel "Gälisch-Schottisch"@de,
+        "Gaelic,Scottish Gaelic"@en,
+        "gaélique,gaélique écossais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/gl> a skos:Concept ;
+    dct:created "2019-05-17T14:14:32.039848+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:32.039848+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "galician" ;
+    skos:prefLabel "Galicisch"@de,
+        "Galician"@en,
+        "galicien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/gn> a skos:Concept ;
+    dct:created "2019-05-17T14:15:02.704727+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:02.704727+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "guarani" ;
+    skos:prefLabel "Guaraní-Sprache"@de,
+        "Guarani"@en,
+        "guarani"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/gu> a skos:Concept ;
+    dct:created "2019-05-17T14:14:35.716810+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:35.716810+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "gujarati" ;
+    skos:prefLabel "Gujarati-Sprache"@de,
+        "Gujarati"@en,
+        "goudjrati"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/gv> a skos:Concept ;
+    dct:created "2019-05-17T14:14:29.703800+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:29.703800+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "manx" ;
+    skos:prefLabel "Manx"@de,
+        "Manx"@en,
+        "manx,mannois"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ha> a skos:Concept ;
+    dct:created "2019-05-17T14:15:06.230101+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:06.230101+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "hausa" ;
+    skos:prefLabel "Haussa-Sprache"@de,
+        "Hausa"@en,
+        "haoussa"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/he> a skos:Concept ;
+    dct:created "2019-05-17T14:15:08.153722+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:08.153722+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "hebrew" ;
+    skos:prefLabel "Hebräisch"@de,
+        "Hebrew"@en,
+        "hébreu"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/hi> a skos:Concept ;
+    dct:created "2019-05-17T14:15:07.145227+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:07.145227+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "hindi" ;
+    skos:prefLabel "Hindi"@de,
+        "Hindi"@en,
+        "hindi"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ho> a skos:Concept ;
+    dct:created "2019-05-17T14:15:15.685677+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:15.685677+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "hiri-motu" ;
+    skos:prefLabel "Hiri-Motu"@de,
+        "Hiri Motu"@en,
+        "hiri motu"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/hr> a skos:Concept ;
+    dct:created "2019-05-17T14:14:31.167529+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:31.167529+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "croatian" ;
+    skos:prefLabel "Kroatisch"@de,
+        "Croatian"@en,
+        "croate"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ht> a skos:Concept ;
+    dct:created "2019-05-17T14:14:28.070616+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:28.070616+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "haitianhaitian-creole" ;
+    skos:prefLabel "Haïtien (Haiti-Kreolisch)"@de,
+        "Haitian,Haitian Creole"@en,
+        "haïtien,créole haïtien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/hu> a skos:Concept ;
+    dct:created "2019-05-17T14:15:10.562713+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:10.562713+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "hungarian" ;
+    skos:prefLabel "Ungarisch"@de,
+        "Hungarian"@en,
+        "hongrois"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/hy> a skos:Concept ;
+    dct:created "2019-05-17T14:15:07.515600+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:07.515600+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "armenian" ;
+    skos:prefLabel "Armenisch"@de,
+        "Armenian"@en,
+        "arménien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/hz> a skos:Concept ;
+    dct:created "2019-05-17T14:14:44.091712+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:44.091712+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "herero" ;
+    skos:prefLabel "Herero-Sprache"@de,
+        "Herero"@en,
+        "herero"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ia> a skos:Concept ;
+    dct:created "2019-05-17T14:14:40.492856+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:40.492856+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "interlingua-international-auxiliary-language-association" ;
+    skos:prefLabel "Interlingua"@de,
+        "Interlingua (International Auxiliary Language Association)"@en,
+        "interlingua (langue auxiliaire internationale)"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/id> a skos:Concept ;
+    dct:created "2019-05-17T14:15:05.081324+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:05.081324+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "indonesian" ;
+    skos:prefLabel "Bahasa Indonesia"@de,
+        "Indonesian"@en,
+        "indonésien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ie> a skos:Concept ;
+    dct:created "2019-05-17T14:14:25.016479+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:25.016479+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "interlingueoccidental" ;
+    skos:prefLabel "Interlingue"@de,
+        "Interlingue,Occidental"@en,
+        "interlingue"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ig> a skos:Concept ;
+    dct:created "2019-05-17T14:14:37.783243+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:37.783243+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "igbo" ;
+    skos:prefLabel "Ibo-Sprache"@de,
+        "Igbo"@en,
+        "igbo"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ii> a skos:Concept ;
+    dct:created "2019-05-17T14:14:27.571606+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:27.571606+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "sichuan-yinuosu" ;
+    skos:prefLabel "Lalo-Sprache"@de,
+        "Sichuan Yi,Nuosu"@en,
+        "yi de Sichuan"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ik> a skos:Concept ;
+    dct:created "2019-05-17T14:14:37.189650+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:37.189650+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "inupiaq" ;
+    skos:prefLabel "Inupik"@de,
+        "Inupiaq"@en,
+        "inupiaq"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/io> a skos:Concept ;
+    dct:created "2019-05-17T14:14:48.188547+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:48.188547+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "ido" ;
+    skos:prefLabel "Ido"@de,
+        "Ido"@en,
+        "ido"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/is> a skos:Concept ;
+    dct:created "2019-05-17T14:15:05.962826+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:05.962826+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "icelandic" ;
+    skos:prefLabel "Isländisch"@de,
+        "Icelandic"@en,
+        "islandais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/it> a skos:Concept ;
+    dct:created "2019-05-17T14:14:43.346772+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:43.346772+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "italian" ;
+    skos:prefLabel "Italienisch"@de,
+        "Italian"@en,
+        "italien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/iu> a skos:Concept ;
+    dct:created "2019-05-17T14:14:55.122842+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:55.122842+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "inuktitut" ;
+    skos:prefLabel "Inuktitut"@de,
+        "Inuktitut"@en,
+        "inuktitut"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ja> a skos:Concept ;
+    dct:created "2019-05-17T14:14:50.358961+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:50.358961+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "japanese" ;
+    skos:prefLabel "Japanisch"@de,
+        "Japanese"@en,
+        "japonais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/jv> a skos:Concept ;
+    dct:created "2019-05-17T14:14:26.394305+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:26.394305+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "javanese" ;
+    skos:prefLabel "Javanisch"@de,
+        "Javanese"@en,
+        "javanais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ka> a skos:Concept ;
+    dct:created "2019-05-17T14:15:17.170962+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:17.170962+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "georgian" ;
+    skos:prefLabel "Georgisch"@de,
+        "Georgian"@en,
+        "géorgien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/kg> a skos:Concept ;
+    dct:created "2019-05-17T14:14:41.546756+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:41.546756+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "kongo" ;
+    skos:prefLabel "Kongo-Sprache"@de,
+        "Kongo"@en,
+        "kongo"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ki> a skos:Concept ;
+    dct:created "2019-05-17T14:14:54.245996+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:54.245996+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "kikuyugikuyu" ;
+    skos:prefLabel "Kikuyu-Sprache"@de,
+        "Kikuyu,Gikuyu"@en,
+        "kikuyu"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/kj> a skos:Concept ;
+    dct:created "2019-05-17T14:14:52.131517+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:52.131517+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "kuanyamakwanyama" ;
+    skos:prefLabel "Kwanyama-Sprache"@de,
+        "Kuanyama,Kwanyama"@en,
+        "kuanyama,kwanyama"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/kk> a skos:Concept ;
+    dct:created "2019-05-17T14:15:12.644672+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:12.644672+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "kazakh" ;
+    skos:prefLabel "Kasachisch"@de,
+        "Kazakh"@en,
+        "kazakh"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/kl> a skos:Concept ;
+    dct:created "2019-05-17T14:14:53.992501+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:53.992501+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "kalaallisutgreenlandic" ;
+    skos:prefLabel "Grönländisch"@de,
+        "Kalaallisut,Greenlandic"@en,
+        "groenlandais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/km> a skos:Concept ;
+    dct:created "2019-05-17T14:14:25.263336+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:25.263336+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "central-khmer" ;
+    skos:prefLabel "Kambodschanisch"@de,
+        "Central Khmer"@en,
+        "khmer central"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/kn> a skos:Concept ;
+    dct:created "2019-05-17T14:14:26.678622+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:26.678622+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "kannada" ;
+    skos:prefLabel "Kannada"@de,
+        "Kannada"@en,
+        "kannada"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ko> a skos:Concept ;
+    dct:created "2019-05-17T14:15:14.487877+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:14.487877+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "korean" ;
+    skos:prefLabel "Koreanisch"@de,
+        "Korean"@en,
+        "coréen"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/kr> a skos:Concept ;
+    dct:created "2019-05-17T14:14:54.850492+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:54.850492+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "kanuri" ;
+    skos:prefLabel "Kanuri-Sprache"@de,
+        "Kanuri"@en,
+        "kanouri"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ks> a skos:Concept ;
+    dct:created "2019-05-17T14:15:11.148088+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:11.148088+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "kashmiri" ;
+    skos:prefLabel "Kaschmiri"@de,
+        "Kashmiri"@en,
+        "kashmiri"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ku> a skos:Concept ;
+    dct:created "2019-05-17T14:14:32.781442+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:32.781442+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "kurdish" ;
+    skos:prefLabel "Kurdisch"@de,
+        "Kurdish"@en,
+        "kurde"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/kv> a skos:Concept ;
+    dct:created "2019-05-17T14:15:14.759741+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:14.759741+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "komi" ;
+    skos:prefLabel "Komi-Sprache"@de,
+        "Komi"@en,
+        "kom"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/kw> a skos:Concept ;
+    dct:created "2019-05-17T14:15:15.179312+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:15.179312+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "cornish" ;
+    skos:prefLabel "Kornisch"@de,
+        "Cornish"@en,
+        "cornique"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ky> a skos:Concept ;
+    dct:created "2019-05-17T14:14:47.195329+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:47.195329+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "kirghizkyrgyz" ;
+    skos:prefLabel "Kirgisisch"@de,
+        "Kirghiz,Kyrgyz"@en,
+        "kirghiz"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/la> a skos:Concept ;
+    dct:created "2019-05-17T14:14:39.278972+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:39.278972+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "latin" ;
+    skos:prefLabel "Latein"@de,
+        "Latin"@en,
+        "latin"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/lb> a skos:Concept ;
+    dct:created "2019-05-17T14:15:16.745814+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:16.745814+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "luxembourgishletzeburgesch" ;
+    skos:prefLabel "Luxemburgisch"@de,
+        "Luxembourgish,Letzeburgesch"@en,
+        "luxembourgeois"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/lg> a skos:Concept ;
+    dct:created "2019-05-17T14:14:59.083982+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:59.083982+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "ganda" ;
+    skos:prefLabel "Ganda-Sprache"@de,
+        "Ganda"@en,
+        "ganda"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/li> a skos:Concept ;
+    dct:created "2019-05-17T14:14:49.087135+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:49.087135+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "limburganlimburgerlimburgish" ;
+    skos:prefLabel "Limburgisch"@de,
+        "Limburgan,Limburger,Limburgish"@en,
+        "limbourgeois"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ln> a skos:Concept ;
+    dct:created "2019-05-17T14:14:52.614248+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:52.614248+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "lingala" ;
+    skos:prefLabel "Lingala"@de,
+        "Lingala"@en,
+        "lingala"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/lo> a skos:Concept ;
+    dct:created "2019-05-17T14:14:29.441163+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:29.441163+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "lao" ;
+    skos:prefLabel "Laotisch"@de,
+        "Lao"@en,
+        "lao"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/lt> a skos:Concept ;
+    dct:created "2019-05-17T14:15:01.951263+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:01.951263+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "lithuanian" ;
+    skos:prefLabel "Litauisch"@de,
+        "Lithuanian"@en,
+        "lituanien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/lu> a skos:Concept ;
+    dct:created "2019-05-17T14:14:30.126717+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:30.126717+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "luba-katanga" ;
+    skos:prefLabel "Luba-Katanga-Sprache"@de,
+        "Luba-Katanga"@en,
+        "luba-katanga"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/lv> a skos:Concept ;
+    dct:created "2019-05-17T14:14:49.351728+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:49.351728+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "latvian" ;
+    skos:prefLabel "Lettisch"@de,
+        "Latvian"@en,
+        "letton"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/mg> a skos:Concept ;
+    dct:created "2019-05-17T14:15:03.796948+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:03.796948+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "malagasy" ;
+    skos:prefLabel "Malagassi-Sprache"@de,
+        "Malagasy"@en,
+        "malgache"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/mh> a skos:Concept ;
+    dct:created "2019-05-17T14:14:33.334846+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:33.334846+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "marshallese" ;
+    skos:prefLabel "Marschallesisch"@de,
+        "Marshallese"@en,
+        "marshall"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/mi> a skos:Concept ;
+    dct:created "2019-05-17T14:14:32.503460+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:32.503460+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "maori" ;
+    skos:prefLabel "Maori-Sprache"@de,
+        "Maori"@en,
+        "maori"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/mk> a skos:Concept ;
+    dct:created "2019-05-17T14:15:16.259956+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:16.259956+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "macedonian" ;
+    skos:prefLabel "Makedonisch"@de,
+        "Macedonian"@en,
+        "macédonien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ml> a skos:Concept ;
+    dct:created "2019-05-17T14:14:25.819544+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:25.819544+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "malayalam" ;
+    skos:prefLabel "Malayalam"@de,
+        "Malayalam"@en,
+        "malayalam"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/mn> a skos:Concept ;
+    dct:created "2019-05-17T14:15:02.432207+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:02.432207+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "mongolian" ;
+    skos:prefLabel "Mongolisch"@de,
+        "Mongolian"@en,
+        "mongol"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/mr> a skos:Concept ;
+    dct:created "2019-05-17T14:14:57.301080+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:57.301080+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "marathi" ;
+    skos:prefLabel "Marathi"@de,
+        "Marathi"@en,
+        "marathe"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ms> a skos:Concept ;
+    dct:created "2019-05-17T14:14:43.109955+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:43.109955+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "malay" ;
+    skos:prefLabel "Malaiisch"@de,
+        "Malay"@en,
+        "malais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/mt> a skos:Concept ;
+    dct:created "2019-05-17T14:14:34.377761+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:34.377761+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "maltese" ;
+    skos:prefLabel "Maltesisch"@de,
+        "Maltese"@en,
+        "maltais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/my> a skos:Concept ;
+    dct:created "2019-05-17T14:14:26.970448+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:26.970448+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "burmese" ;
+    skos:prefLabel "Birmanisch"@de,
+        "Burmese"@en,
+        "birman"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/na> a skos:Concept ;
+    dct:created "2019-05-17T14:15:04.281927+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:04.281927+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "nauru" ;
+    skos:prefLabel "Nauruanisch"@de,
+        "Nauru"@en,
+        "nauruan"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/nb> a skos:Concept ;
+    dct:created "2019-05-17T14:14:43.746912+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:43.746912+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "bokmål-norwegiannorwegian-bokmål" ;
+    skos:prefLabel "Bokmål"@de,
+        "Bokmål, Norwegian,Norwegian Bokmål"@en,
+        "norvégien bokmål"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/nd> a skos:Concept ;
+    dct:created "2019-05-17T14:14:35.423644+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:35.423644+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "ndebele-northnorth-ndebele" ;
+    skos:prefLabel "Ndebele-Sprache (Simbabwe)"@de,
+        "Ndebele, North,North Ndebele"@en,
+        "ndébélé du Nord"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ne> a skos:Concept ;
+    dct:created "2019-05-17T14:15:10.849550+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:10.849550+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "nepali" ;
+    skos:prefLabel "Nepali"@de,
+        "Nepali"@en,
+        "népalais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ng> a skos:Concept ;
+    dct:created "2019-05-17T14:14:56.382140+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:56.382140+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "ndonga" ;
+    skos:prefLabel "Ndonga"@de,
+        "Ndonga"@en,
+        "ndonga"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/nl> a skos:Concept ;
+    dct:created "2019-05-17T14:14:36.854069+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:36.854069+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "dutchflemish" ;
+    skos:prefLabel "Niederländisch"@de,
+        "Dutch,Flemish"@en,
+        "néerlandais,flamand"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/nn> a skos:Concept ;
+    dct:created "2019-05-17T14:14:30.445162+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:30.445162+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "norwegian-nynorsknynorsk-norwegian" ;
+    skos:prefLabel "Nynorsk"@de,
+        "Norwegian Nynorsk,Nynorsk, Norwegian"@en,
+        "norvégien nynorsk,nynorsk, norvégien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/no> a skos:Concept ;
+    dct:created "2019-05-17T14:15:05.715056+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:05.715056+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "norwegian" ;
+    skos:prefLabel "Norwegisch"@de,
+        "Norwegian"@en,
+        "norvégien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/nr> a skos:Concept ;
+    dct:created "2019-05-17T14:14:48.798283+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:48.798283+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "ndebele-southsouth-ndebele" ;
+    skos:prefLabel "Ndebele-Sprache (Transvaal)"@de,
+        "Ndebele, South,South Ndebele"@en,
+        "ndébélé du Sud"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/nv> a skos:Concept ;
+    dct:created "2019-05-17T14:14:52.876026+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:52.876026+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "navajonavaho" ;
+    skos:prefLabel "Navajo-Sprache"@de,
+        "Navajo,Navaho"@en,
+        "navaho"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ny> a skos:Concept ;
+    dct:created "2019-05-17T14:14:53.320272+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:53.320272+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "chichewachewanyanja" ;
+    skos:prefLabel "Nyanja-Sprache"@de,
+        "Chichewa,Chewa,Nyanja"@en,
+        "chichewa,chewa,nyanja"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/oc> a skos:Concept ;
+    dct:created "2019-05-17T14:14:33.094014+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:33.094014+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "occitan-post-1500" ;
+    skos:prefLabel "Okzitanisch"@de,
+        "Occitan (post 1500)"@en,
+        "occitan (après 1500)"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/oj> a skos:Concept ;
+    dct:created "2019-05-17T14:14:49.963080+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:49.963080+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "ojibwa" ;
+    skos:prefLabel "Ojibwa-Sprache"@de,
+        "Ojibwa"@en,
+        "ojibwa"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/om> a skos:Concept ;
+    dct:created "2019-05-17T14:14:44.361512+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:44.361512+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "oromo" ;
+    skos:prefLabel "Galla-Sprache"@de,
+        "Oromo"@en,
+        "galla"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/or> a skos:Concept ;
+    dct:created "2019-05-17T14:14:33.601378+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:33.601378+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "oriya" ;
+    skos:prefLabel "Oriya-Sprache"@de,
+        "Oriya"@en,
+        "oriya"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/os> a skos:Concept ;
+    dct:created "2019-05-17T14:14:52.387881+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:52.387881+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "ossetianossetic" ;
+    skos:prefLabel "Ossetisch"@de,
+        "Ossetian,Ossetic"@en,
+        "ossète"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/pa> a skos:Concept ;
+    dct:created "2019-05-17T14:15:04.500821+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:04.500821+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "panjabipunjabi" ;
+    skos:prefLabel "Pandschabi-Sprache"@de,
+        "Panjabi,Punjabi"@en,
+        "pendjabi"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/pi> a skos:Concept ;
+    dct:created "2019-05-17T14:14:24.288252+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:24.288252+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "pali" ;
+    skos:prefLabel "Pali"@de,
+        "Pali"@en,
+        "pali"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/pl> a skos:Concept ;
+    dct:created "2019-05-17T14:14:38.595229+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:38.595229+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "polish" ;
+    skos:prefLabel "Polnisch"@de,
+        "Polish"@en,
+        "polonais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ps> a skos:Concept ;
+    dct:created "2019-05-17T14:14:25.624218+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:25.624218+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "pushtopashto" ;
+    skos:prefLabel "Paschtu"@de,
+        "Pushto,Pashto"@en,
+        "pachto"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/pt> a skos:Concept ;
+    dct:created "2019-05-17T14:14:56.640619+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:56.640619+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "portuguese" ;
+    skos:prefLabel "Portugiesisch"@de,
+        "Portuguese"@en,
+        "portugais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/qu> a skos:Concept ;
+    dct:created "2019-05-17T14:15:19.434025+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:19.434025+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "quechua" ;
+    skos:prefLabel "Quechua-Sprache"@de,
+        "Quechua"@en,
+        "quechua"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/rm> a skos:Concept ;
+    dct:created "2019-05-17T14:14:53.113777+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:53.113777+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "romansh" ;
+    skos:prefLabel "Rätoromanisch"@de,
+        "Romansh"@en,
+        "romanche"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/rn> a skos:Concept ;
+    dct:created "2019-05-17T14:14:28.380641+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:28.380641+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "rundi" ;
+    skos:prefLabel "Rundi-Sprache"@de,
+        "Rundi"@en,
+        "rundi"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ro> a skos:Concept ;
+    dct:created "2019-05-17T14:14:48.551299+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:48.551299+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "romanianmoldavianmoldovan" ;
+    skos:prefLabel "Rumänisch"@de,
+        "Romanian,Moldavian,Moldovan"@en,
+        "roumain,moldave"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ru> a skos:Concept ;
+    dct:created "2019-05-17T14:15:00.330524+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:00.330524+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "russian" ;
+    skos:prefLabel "Russisch"@de,
+        "Russian"@en,
+        "russe"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/rw> a skos:Concept ;
+    dct:created "2019-05-17T14:14:26.086449+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:26.086449+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "kinyarwanda" ;
+    skos:prefLabel "Rwanda-Sprache"@de,
+        "Kinyarwanda"@en,
+        "rwanda"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/sa> a skos:Concept ;
+    dct:created "2019-05-17T14:15:00.562631+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:00.562631+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "sanskrit" ;
+    skos:prefLabel "Sanskrit"@de,
+        "Sanskrit"@en,
+        "sanskrit"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/sc> a skos:Concept ;
+    dct:created "2019-05-17T14:14:37.486795+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:37.486795+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "sardinian" ;
+    skos:prefLabel "Sardisch"@de,
+        "Sardinian"@en,
+        "sarde"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/sd> a skos:Concept ;
+    dct:created "2019-05-17T14:15:17.821267+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:17.821267+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "sindhi" ;
+    skos:prefLabel "Sindhi-Sprache"@de,
+        "Sindhi"@en,
+        "sindhi"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/se> a skos:Concept ;
+    dct:created "2019-05-17T14:14:38.079352+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:38.079352+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "northern-sami" ;
+    skos:prefLabel "Nordsaamisch"@de,
+        "Northern Sami"@en,
+        "sami du Nord"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/sg> a skos:Concept ;
+    dct:created "2019-05-17T14:14:56.159919+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:56.159919+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "sango" ;
+    skos:prefLabel "Sango-Sprache"@de,
+        "Sango"@en,
+        "sango"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/si> a skos:Concept ;
+    dct:created "2019-05-17T14:14:56.906870+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:56.906870+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "sinhalasinhalese" ;
+    skos:prefLabel "Singhalesisch"@de,
+        "Sinhala,Sinhalese"@en,
+        "singhalais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/sk> a skos:Concept ;
+    dct:created "2019-05-17T14:14:38.352481+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:38.352481+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "slovak" ;
+    skos:prefLabel "Slowakisch"@de,
+        "Slovak"@en,
+        "slovaque"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/sl> a skos:Concept ;
+    dct:created "2019-05-17T14:14:47.753125+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:47.753125+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "slovenian" ;
+    skos:prefLabel "Slowenisch"@de,
+        "Slovenian"@en,
+        "slovène"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/sm> a skos:Concept ;
+    dct:created "2019-05-17T14:14:27.815635+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:27.815635+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "samoan" ;
+    skos:prefLabel "Samoanisch"@de,
+        "Samoan"@en,
+        "samoan"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/sn> a skos:Concept ;
+    dct:created "2019-05-17T14:15:15.929191+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:15.929191+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "shona" ;
+    skos:prefLabel "Schona-Sprache"@de,
+        "Shona"@en,
+        "shona"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/so> a skos:Concept ;
+    dct:created "2019-05-17T14:15:12.410717+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:12.410717+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "somali" ;
+    skos:prefLabel "Somali"@de,
+        "Somali"@en,
+        "somali"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/sq> a skos:Concept ;
+    dct:created "2019-05-17T14:15:12.918913+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:12.918913+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "albanian" ;
+    skos:prefLabel "Albanisch"@de,
+        "Albanian"@en,
+        "albanais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/sr> a skos:Concept ;
+    dct:created "2019-05-17T14:15:06.968929+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:06.968929+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "serbian" ;
+    skos:prefLabel "Serbisch"@de,
+        "Serbian"@en,
+        "serbe"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ss> a skos:Concept ;
+    dct:created "2019-05-17T14:14:35.195389+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:35.195389+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "swati" ;
+    skos:prefLabel "Swasi-Sprache"@de,
+        "Swati"@en,
+        "swati"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/st> a skos:Concept ;
+    dct:created "2019-05-17T14:15:00.787799+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:00.787799+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "sotho-southern" ;
+    skos:prefLabel "Süd-Sotho-Sprache"@de,
+        "Sotho, Southern"@en,
+        "sotho du Sud"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/su> a skos:Concept ;
+    dct:created "2019-05-17T14:14:59.439661+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:59.439661+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "sundanese" ;
+    skos:prefLabel "Sundanesisch"@de,
+        "Sundanese"@en,
+        "soundanais"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/sv> a skos:Concept ;
+    dct:created "2019-05-17T14:15:16.538962+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:16.538962+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "swedish" ;
+    skos:prefLabel "Schwedisch"@de,
+        "Swedish"@en,
+        "suédois"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/sw> a skos:Concept ;
+    dct:created "2019-05-17T14:15:01.746632+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:01.746632+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "swahili" ;
+    skos:prefLabel "Swahili"@de,
+        "Swahili"@en,
+        "swahili"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ta> a skos:Concept ;
+    dct:created "2019-05-17T14:15:18.470351+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:18.470351+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "tamil" ;
+    skos:prefLabel "Tamil"@de,
+        "Tamil"@en,
+        "tamoul"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/te> a skos:Concept ;
+    dct:created "2019-05-17T14:14:41.830261+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:41.830261+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "telugu" ;
+    skos:prefLabel "Telugu-Sprache"@de,
+        "Telugu"@en,
+        "télougou"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/tg> a skos:Concept ;
+    dct:created "2019-05-17T14:15:09.933509+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:09.933509+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "tajik" ;
+    skos:prefLabel "Tadschikisch"@de,
+        "Tajik"@en,
+        "tadjik"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/th> a skos:Concept ;
+    dct:created "2019-05-17T14:14:30.814333+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:30.814333+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "thai" ;
+    skos:prefLabel "Thailändisch"@de,
+        "Thai"@en,
+        "thaï"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ti> a skos:Concept ;
+    dct:created "2019-05-17T14:14:31.520073+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:31.520073+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "tigrinya" ;
+    skos:prefLabel "Tigrinja-Sprache"@de,
+        "Tigrinya"@en,
+        "tigrigna"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/tk> a skos:Concept ;
+    dct:created "2019-05-17T14:14:53.777596+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:53.777596+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "turkmen" ;
+    skos:prefLabel "Turkmenisch"@de,
+        "Turkmen"@en,
+        "turkmène"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/tl> a skos:Concept ;
+    dct:created "2019-05-17T14:15:04.062095+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:04.062095+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "tagalog" ;
+    skos:prefLabel "Tagalog"@de,
+        "Tagalog"@en,
+        "tagalog"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/tn> a skos:Concept ;
+    dct:created "2019-05-17T14:15:17.005008+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:17.005008+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "tswana" ;
+    skos:prefLabel "Tswana-Sprache"@de,
+        "Tswana"@en,
+        "tswana"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/to> a skos:Concept ;
+    dct:created "2019-05-17T14:15:02.207694+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:02.207694+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "tonga-tonga-islands" ;
+    skos:prefLabel "Tongaisch"@de,
+        "Tonga (Tonga Islands)"@en,
+        "tongan (Îles Tonga)"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/tr> a skos:Concept ;
+    dct:created "2019-05-17T14:14:42.546848+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:42.546848+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "turkish" ;
+    skos:prefLabel "Türkisch"@de,
+        "Turkish"@en,
+        "turc"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ts> a skos:Concept ;
+    dct:created "2019-05-17T14:14:24.806035+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:24.806035+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "tsonga" ;
+    skos:prefLabel "Tsonga-Sprache"@de,
+        "Tsonga"@en,
+        "tsonga"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/tt> a skos:Concept ;
+    dct:created "2019-05-17T14:14:36.587996+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:36.587996+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "tatar" ;
+    skos:prefLabel "Tatarisch"@de,
+        "Tatar"@en,
+        "tatar"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/tw> a skos:Concept ;
+    dct:created "2019-05-17T14:15:11.921701+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:11.921701+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "twi" ;
+    skos:prefLabel "Twi-Sprache"@de,
+        "Twi"@en,
+        "twi"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ty> a skos:Concept ;
+    dct:created "2019-05-17T14:15:19.631341+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:19.631341+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "tahitian" ;
+    skos:prefLabel "Tahitisch"@de,
+        "Tahitian"@en,
+        "tahitien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ug> a skos:Concept ;
+    dct:created "2019-05-17T14:14:49.707497+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:49.707497+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "uighuruyghur" ;
+    skos:prefLabel "Uigurisch"@de,
+        "Uighur,Uyghur"@en,
+        "ouïgour"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/uk> a skos:Concept ;
+    dct:created "2019-05-17T14:14:36.373900+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:36.373900+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "ukrainian" ;
+    skos:prefLabel "Ukrainisch"@de,
+        "Ukrainian"@en,
+        "ukrainien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ur> a skos:Concept ;
+    dct:created "2019-05-17T14:15:11.722386+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:11.722386+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "urdu" ;
+    skos:prefLabel "Urdu"@de,
+        "Urdu"@en,
+        "ourdou"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/uz> a skos:Concept ;
+    dct:created "2019-05-17T14:14:36.121305+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:36.121305+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "uzbek" ;
+    skos:prefLabel "Usbekisch"@de,
+        "Uzbek"@en,
+        "ouszbek"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/ve> a skos:Concept ;
+    dct:created "2019-05-17T14:14:55.718424+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:55.718424+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "venda" ;
+    skos:prefLabel "Venda-Sprache"@de,
+        "Venda"@en,
+        "venda"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/vi> a skos:Concept ;
+    dct:created "2019-05-17T14:15:18.041347+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:15:18.041347+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "vietnamese" ;
+    skos:prefLabel "Vietnamesisch"@de,
+        "Vietnamese"@en,
+        "vietnamien"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/vo> a skos:Concept ;
+    dct:created "2019-05-17T14:14:57.123398+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:57.123398+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "volapük" ;
+    skos:prefLabel "Volapük"@de,
+        "Volapük"@en,
+        "volapük"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/wa> a skos:Concept ;
+    dct:created "2019-05-17T14:14:24.556183+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:24.556183+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "walloon" ;
+    skos:prefLabel "Wallonisch"@de,
+        "Walloon"@en,
+        "wallon"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/wo> a skos:Concept ;
+    dct:created "2019-05-17T14:14:55.936592+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:55.936592+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "wolof" ;
+    skos:prefLabel "Wolof-Sprache"@de,
+        "Wolof"@en,
+        "wolof"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/xh> a skos:Concept ;
+    dct:created "2019-05-17T14:14:27.333261+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:27.333261+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "xhosa" ;
+    skos:prefLabel "Xhosa-Sprache"@de,
+        "Xhosa"@en,
+        "xhosa"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/yi> a skos:Concept ;
+    dct:created "2019-05-17T14:14:50.824628+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:50.824628+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "yiddish" ;
+    skos:prefLabel "Jiddisch"@de,
+        "Yiddish"@en,
+        "yiddish"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/yo> a skos:Concept ;
+    dct:created "2019-05-17T14:14:50.656614+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:50.656614+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "yoruba" ;
+    skos:prefLabel "Yoruba-Sprache"@de,
+        "Yoruba"@en,
+        "yoruba"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/za> a skos:Concept ;
+    dct:created "2019-05-17T14:14:57.623586+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:57.623586+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "zhuangchuang" ;
+    skos:prefLabel "Zhuang"@de,
+        "Zhuang,Chuang"@en,
+        "zhuang,chuang"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/zh> a skos:Concept ;
+    dct:created "2019-05-17T14:14:45.576761+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:45.576761+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "chinese" ;
+    skos:prefLabel "Chinesisch"@de,
+        "Chinese"@en,
+        "chinois"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/zu> a skos:Concept ;
+    dct:created "2019-05-17T14:14:51.012812+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:51.012812+00:00"^^xsd:dateTime ;
+    skos:inScheme <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> ;
+    skos:notation "zulu" ;
+    skos:prefLabel "Zulu-Sprache"@de,
+        "Zulu"@en,
+        "zoulou"@fr ;
+    skos:topConceptOf <https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> .
+
+<https://vocabs.acdh.oeaw.ac.at/iso6391/Schema> a skos:ConceptScheme ;
+    rdfs:label "ISO 639-1 Language Codes"@en ;
+    dc:language "Deutsch",
+        "Englisch",
+        "English",
+        "Französisch",
+        "French",
+        "German" ;
+    dc:title "ISO 639-1 Sprachcodes"@de,
+        "ISO 639-1 Language Codes"@en ;
+    dct:created "2019-05-17T14:14:24.054843+00:00"^^xsd:dateTime ;
+    dct:modified "2019-05-17T14:14:24.095598+00:00"^^xsd:dateTime ;
+    skos:hasTopConcept <https://vocabs.acdh.oeaw.ac.at/iso6391/aa>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ab>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ae>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/af>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ak>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/am>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/an>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ar>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/as>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/av>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ay>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/az>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ba>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/be>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/bg>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/bh>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/bi>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/bm>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/bn>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/bo>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/br>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/bs>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ca>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ce>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ch>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/co>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/cr>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/cs>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/cu>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/cv>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/cy>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/da>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/de>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/dv>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/dz>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ee>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/el>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/en>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/eo>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/es>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/et>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/eu>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/fa>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ff>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/fi>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/fj>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/fo>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/fr>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/fy>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ga>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/gd>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/gl>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/gn>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/gu>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/gv>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ha>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/he>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/hi>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ho>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/hr>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ht>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/hu>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/hy>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/hz>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ia>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/id>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ie>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ig>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ii>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ik>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/io>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/is>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/it>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/iu>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ja>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/jv>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ka>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/kg>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ki>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/kj>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/kk>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/kl>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/km>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/kn>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ko>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/kr>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ks>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ku>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/kv>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/kw>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ky>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/la>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/lb>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/lg>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/li>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ln>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/lo>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/lt>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/lu>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/lv>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/mg>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/mh>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/mi>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/mk>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ml>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/mn>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/mr>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ms>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/mt>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/my>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/na>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/nb>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/nd>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ne>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ng>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/nl>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/nn>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/no>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/nr>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/nv>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ny>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/oc>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/oj>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/om>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/or>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/os>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/pa>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/pi>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/pl>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ps>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/pt>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/qu>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/rm>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/rn>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ro>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ru>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/rw>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/sa>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/sc>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/sd>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/se>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/sg>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/si>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/sk>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/sl>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/sm>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/sn>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/so>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/sq>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/sr>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ss>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/st>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/su>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/sv>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/sw>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ta>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/te>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/tg>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/th>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ti>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/tk>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/tl>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/tn>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/to>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/tr>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ts>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/tt>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/tw>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ty>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ug>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/uk>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ur>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/uz>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/ve>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/vi>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/vo>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/wa>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/wo>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/xh>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/yi>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/yo>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/za>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/zh>,
+        <https://vocabs.acdh.oeaw.ac.at/iso6391/zu> .
+
